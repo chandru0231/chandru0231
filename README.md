@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandru0231
-- 👀 I’m interested in data visualisation, and predicting. 
+- 👀 I’m interested in making sense out of data and providing clarity.  
 - 🌱 I’m currently learning R,Python and SQL 
 - 💞️ I’m looking to collaborate on finacial datasets,aviation data and Socioeconomics datasets...
 - 📫 How to reach me Linkedin ID www.linkedin.com/in/chandru700

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandru0231
 - 👀 I’m interested in making sense out of data and providing clarity.  
 - 🌱 I’m currently learning R,Python and SQL 
-- 💞️ I’m looking to collaborate on finacial datasets,aviation data and Socioeconomics datasets...
+- 💞️ I’m looking to collaborate on finacial datasets and aviation data data sets. 
 - 📫 How to reach me Linkedin ID www.linkedin.com/in/chandru700
 
 
